@@ -1,0 +1,8 @@
+ td,th{
+    border: 2px dotted blue;
+ }
+ table{
+     width: 80%;
+     padding: 30px;
+     border-collapse: collapse;
+ }
